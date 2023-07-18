@@ -1,4 +1,4 @@
-// Q U E E N - A N Y A - M D  #v2
+// 𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒
 
 // • # Made by @PikaBotz [ GitHub.com/PikaBotz ]
 // • # The script is Encrypted because users are not allowed to commit any changes without permission!
@@ -22,9 +22,9 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.botname = "SHAWARMA-BOT" 
+global.author = "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒"  
+global.packname = "+92"  
 global.myweb = "Enter Your Any Website Profile Link Here"
 global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
@@ -34,14 +34,14 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
+global.ownername = "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒"    
+global.ownernumber = ["31687886969"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
 global.region = "Enter Your Country Name Here"
 global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
+global.timezone = "Europe/Amsterdam" // search on google if you don't know the timezone of your country //
+global.instagramId = "ccommanderss"
 global.email = "Enter Your Email ID Here"
 
 
@@ -60,10 +60,10 @@ global.Tips = [
 ]
 
 //--------------- Menu images ----------------\\
-global.nullImage = fs.readFileSync('./AnyaPikaMedia/Anyatestpic.jpg')
-global.Menuimage = fs.readFileSync("./AnyaPikaMedia/Menuimg.jpg") // Thumbnail for Dashboard
-global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/Menuimg2.jpeg")
-global.allmenuImg = fs.readFileSync('./AnyaPikaMedia/Allmenu.jpg') // Thumbnail for Allmenu command 
+global.nullImage = fs.readFileSync('./https://www.linkpicture.com/view.php?img=LPic64b6e75be5cbd1000847570')
+global.Menuimage = fs.readFileSync("./https://www.linkpicture.com/q/WhatsApp-Image-2023-07-18-at-12.22.32.jpeg") // Thumbnail for Dashboard
+global.thumnnaiIs = fs.readFileSync("./https://www.linkpicture.com/q/WhatsApp-Image-2023-07-18-at-12.22.31_4.jpeg")
+global.allmenuImg = fs.readFileSync('./https://www.linkpicture.com/q/WhatsApp-Image-2023-07-18-at-12.29.26.jpeg') // Thumbnail for Allmenu command 
 
 global.mess = {
     success: 'Done ✅',
